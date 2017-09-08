@@ -1,3 +1,3 @@
 const app = "I don't do much."
 
-kittens.push();
+kittens.push("name");
